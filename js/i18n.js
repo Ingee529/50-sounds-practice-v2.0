@@ -183,7 +183,7 @@ const translations = {
     en: {
         // 應用標題和導航
         app: {
-            title: "🎌 Japanese Kana Practice",
+            title: "🎌 Japanese 50 Sounds Practice",
             guestMode: "Guest Mode",
             guestWarning: "Your learning records will not be saved",
             loginRegister: "Login/Register",
