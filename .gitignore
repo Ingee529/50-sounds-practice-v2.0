@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+*.sqlite3
+*.db
+
+# Django
+*.log
+.env*
+
+# Secrets
+client_secret_*.json
+
+# macOS
+.DS_Store
